@@ -10,15 +10,7 @@ namespace Peremennie
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите 2 числа, чтобы узнать их частное");
-            int number1 = int.Parse(Console.ReadLine());
-            int number2 = int.Parse(Console.ReadLine());
 
-            double div  = (double)number1 / number2;
-
-            Console.WriteLine("Сумма введенных чисел равна: " + div);
-
-            Console.ReadKey();
         }
     }
 }

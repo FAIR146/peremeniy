@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\Peremennie\Peremennie\bin\Debug\Peremennie.exe.config
+C:\Users\Nikita\source\repos\Peremennie\Peremennie\bin\Debug\Peremennie.exe
+C:\Users\Nikita\source\repos\Peremennie\Peremennie\bin\Debug\Peremennie.pdb
+C:\Users\Nikita\source\repos\Peremennie\Peremennie\obj\Debug\Peremennie.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\Peremennie\Peremennie\obj\Debug\Peremennie.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Peremennie\Peremennie\obj\Debug\Peremennie.exe
+C:\Users\Nikita\source\repos\Peremennie\Peremennie\obj\Debug\Peremennie.pdb
